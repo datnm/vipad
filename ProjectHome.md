@@ -1,0 +1,1 @@
+Vietnamese input pad web app for client-side offline use on iPhone, iPad
